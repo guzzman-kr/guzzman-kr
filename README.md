@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://i.pinimg.com/originals/05/d7/4e/05d74e6228a47159313fa6aeee21c9dc.gif" width="100%" style="width: 100%; display: block;">
+<img src="https://i.pinimg.com/1200x/22/ff/0d/22ff0d0174d6983a02b831a99ab35bdd.jpg" width="100%" style="width: 100%; display: block;">
 
 <!--
 **guzzman-kr/guzzman-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
