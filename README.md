@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://i.pinimg.com/originals/cc/2c/e6/cc2ce60c0fd2c1eccb6f4aa244e37794.gif" width="400">
+<img src="https://i.pinimg.com/originals/2c/97/f8/2c97f890a2cc2de15a6c1c4d3f9debfd.gif" width="600" alt="cute">
 
 
 <!--
